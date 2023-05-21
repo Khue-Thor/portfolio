@@ -33,8 +33,8 @@ export const navLinks = [
     title: "Skills",
   },
   {
-    id: "projects",
-    title: "Projects",
+    id: "portfolio",
+    title: "Portfolio",
   },
   {
     id: "contact",
@@ -93,10 +93,6 @@ const technologies = [
   {
     name: "MongoDB",
     icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
   {
     name: "git",
