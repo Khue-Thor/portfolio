@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
+import * as THREE from 'three'
 const Hero = () => {
   return (
     <section className="relative w-full h-screen max-auto">
@@ -23,7 +24,7 @@ const Hero = () => {
               <a href="#contact">Contact</a>
             </button>
             <button className="bg-black-200 border-2 pt-1 pr-2 pb-1 pl-2 rounded-full hero-button">
-              <a href="https://github.com/Khue-Thor/portfolio" target=" ">
+              <a href="https://github.com/Khue-Thor" target=" ">
                 GitHub
               </a>
             </button>
@@ -41,7 +42,3 @@ const Hero = () => {
 
 export default Hero;
 
-// Welcome to my portfolio! I am a skilled UI and backend developer with a passion for
-// crafting seamless and efficient web applications. With a strong front-end and back-end
-// development foundation, I bring a holistic approach to building robust and user-friendly
-// digital experiences.
