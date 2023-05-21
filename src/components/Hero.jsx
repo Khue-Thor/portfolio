@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import * as THREE from 'three'
+import { ComputersCanvas } from "./canvas";
+import { herophoto } from "../assets";
 const Hero = () => {
   return (
     <section className="relative w-full h-screen max-auto">
@@ -35,10 +36,10 @@ const Hero = () => {
             </button>
           </div>
         </div>
+        
       </div>
     </section>
   );
 };
 
 export default Hero;
-
