@@ -1,7 +1,6 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
+import fullstack from './fullstack.png'
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -28,13 +27,14 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import sumzai from "./sumzai.png";
+import techshop from './techshop.png';
+import wtwr from './wtwr.png'
 
 export {
   logo,
   backend,
-  creator,
-  mobile,
+  fullstack,
   web,
   github,
   menu,
@@ -58,5 +58,7 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide,
+  sumzai,
+  techshop,
+  wtwr
 };

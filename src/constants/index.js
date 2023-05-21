@@ -13,18 +13,14 @@ import {
   mongodb,
   git,
   figma,
-  docker,
   meta,
   starbucks,
   tesla,
   shopify,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   wtwr,
   techshop,
-  sumzai,
+  sumzai
 } from "../assets";
 
 export const navLinks = [
