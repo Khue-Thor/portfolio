@@ -18,16 +18,16 @@ const Hero = () => {
             bring a holistic approach to building robust and <br className="sm:block hidden" />
             user-friendly digital experiences.
           </p>
-          <div className="flex gap-3">
-            <button className="bg-[#246781] border-2 p-2 rounded-full">
+          <div className="flex gap-3 mt-4">
+            <button className="bg-[#246781] border-2 pt-1 pr-2 pb-1 pl-2 rounded-full hero-button">
               <a href="#contact">Contact</a>
             </button>
-            <button className="bg-black-200 border-2 p-2 rounded-full">
+            <button className="bg-black-200 border-2 pt-1 pr-2 pb-1 pl-2 rounded-full hero-button">
               <a href="https://github.com/Khue-Thor/portfolio" target=" ">
                 GitHub
               </a>
             </button>
-            <button className="bg-blue-600 border-2 p-2 rounded-full">
+            <button className="bg-blue-600 border-2 pt-1 pr-2 pb-1 pl-2 rounded-full hero-button">
               <a href="https://www.linkedin.com/in/khuephamy-phialouang-9b160723b/" target=" ">
                 LinkedIn
               </a>

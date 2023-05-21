@@ -30,6 +30,7 @@ import jobit from "./jobit.png";
 import sumzai from "./sumzai.png";
 import techshop from './techshop.png';
 import wtwr from './wtwr.png'
+import herophoto from './herophoto.png';
 
 export {
   logo,
@@ -60,5 +61,6 @@ export {
   jobit,
   sumzai,
   techshop,
-  wtwr
+  wtwr,
+  herophoto
 };
